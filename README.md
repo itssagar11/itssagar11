@@ -1,7 +1,8 @@
-<h1 style="color:white;"> Namaste World</h1>
+<heading>
+   <h1 style="color:white;"> Namaste World</h1>
 <h2 style="color:white;">I'm Sagar. Web Developer/Engineer</h2>
-<h4 style="color:white;"> Front-end Developer/ Backend Learner</h4>
-
+<span style="color:white;"> Front-end Developer/ Backend Learner</span>
+</heading>
 
 <h2 class="intro-heading"> Me, Myself and I</h2>
 <paragraph>  <p>
