@@ -1,14 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="script.js"></script>
-        
-    </head>
-    <body>
-        <!-- intro -->
-        <div class="full-height intro-container">
-            <div class="intro">
+
                 <div class="namaste-world">
                     <span class="h1char">N</span>
                     <span class="h1char">a</span>
