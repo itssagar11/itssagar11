@@ -1,7 +1,7 @@
 <heading>
    <h1 style="color:white;"> Namaste World</h1>
 <h2 style="color:white;">I'm Sagar. Upcoming Developer/Engineer</h2>
-<span style="color:white;"> Front-end Developer/ Backend Learner</span>
+<span style="color:white;"> Front-Stack Learner</span>
 </heading>
 
 <h2 class="intro-heading"> Me, Myself and I</h2>
